@@ -1,0 +1,5 @@
+{
+    "internhacks-summary": "Created a game to empower young women by teaching them how to code through stories of female pioneers in 5 weeks, receiving the Design Day Best Overall and Demo Day Best Future Vision awards. Designed the AWS cloud architecture by using AWS Amplify, EC2 servers, and DynamoDB. Created RESTful APIs with Flask and Docker to deploy the Flask application to an EC2 instance with a nginx server. Connected the front end (React) with the backend (Flask) with Axios and integrated Auth0 into the application to secure user information",
+    "internhacks-title": "InternHacks 2020 Cohort",
+    "internhacks-url": "/internhacks-design.png"
+}
